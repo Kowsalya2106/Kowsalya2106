@@ -1,4 +1,4 @@
-## Hi there, I'M Kowsalya👋
+## Hi there, I'm Kowsalya👋
 
 🎯 Aspiring Java Developer | Software Development Intern
 
