@@ -22,10 +22,10 @@ I come from a **BBA background**, and I’m building strong skills in **Java pro
 - Working on features like user registration, data storage, update/delete functionalities, and UI design.
 ---
 ## Skills 
-**Programming**:Java,JDBC
-**Web Development**:Html,Css,JavaScript
-**Tools**:VS code,Spring Tool Suite(STS)
-**Database**:Mysql 
+- **programming**:Core Java,JDBC
+- **Web Developement**:Html,CSS,Javascript
+- **Tools**:VS code,Sprig Tool Suite(STS)
+- **Database**:Mysql
 
 ## 📫 Let's Connect
 📧 Email:Kowsalyam8788@gmail.com  
