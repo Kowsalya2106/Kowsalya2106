@@ -8,7 +8,7 @@ I'm a passionate and self-motivated learner currently doing my internship at **B
 I come from a **BBA background**, and I’m building strong skills in **Java programming**, **web development**, and **database management**.
 
 - 🌱 Actively learning Java, Spring Boot, and full-stack development.
-- 💡 Working on real-time projects using HTML, CSS, JavaScript, Java, and MySQL.
+- 💡 Working on real-time projects using HTML, CSS,Java,MySQL.
 - 💻 Focused on building CRUD-based applications and improving backend logic.
 - 🚀 Eager to grow in the IT industry and become a successful software developer.
 
@@ -16,14 +16,13 @@ I come from a **BBA background**, and I’m building strong skills in **Java pro
 ## 💼 Professional Experience
 **Software Developer Intern**  
 📍 *Betamonks Technology Factory Pvt. Ltd.*  
-📆 *Feb 2024 – Present*  
 - Developing real-time web applications using **Java Spring Boot** and **MySQL**.
 - Collaborating with mentors to improve coding standards and complete project modules.
 - Working on features like user registration, data storage, update/delete functionalities, and UI design.
 ---
 ## Skills 
-- **programming**:Core Java,JDBC
-- **Web Developement**:Html,CSS,Javascript
+- **programming**:Core Java
+- **Web Developement**:Html,CSS
 - **Tools**:VS code,Sprig Tool Suite(STS)
 - **Database**:Mysql
 
